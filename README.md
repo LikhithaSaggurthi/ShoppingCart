@@ -15,6 +15,7 @@ Inventory Control: Real-time stock management and validation
 User-Friendly Interface: Interactive console menu system
 
 📋 Menu Options
+
 === Main Menu ===
 1. View Products
 2. Search Products
