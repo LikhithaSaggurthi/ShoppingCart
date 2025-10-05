@@ -29,7 +29,7 @@ User-Friendly Interface: Interactive console menu system
 
 Run the application:
 
-java ShoppingApp
+```java ShoppingApp```
 
 🏗️ Project Structure
 
