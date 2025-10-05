@@ -1,7 +1,9 @@
 Shopping Cart System 🛒
+
 A console-based e-commerce shopping cart application built in Java with full CRUD operations for cart management.
 
 🚀 Features
+
 Product Catalog: Browse and search through available products
 
 Shopping Cart: Add, update, remove, and view cart items
@@ -25,24 +27,39 @@ User-Friendly Interface: Interactive console menu system
 9. Exit
 
 Run the application:
+
 java ShoppingApp
 
 🏗️ Project Structure
+
 ShoppingCart/
+
 ├── src/
+
 │   └── src/
+
 │       ├── ShoppingApp.java      # Main application entry point
+
 │       ├── UserInterface.java    # User interaction handler
+
 │       ├── ProductManager.java   # Product catalog management
+
 │       ├── CartManager.java      # Shopping cart operations
+
 │       ├── OrderManager.java     # Order processing
+
 │       ├── ShoppingCart.java     # Cart data structure
+
 │       ├── Product.java          # Product entity
+
 │       ├── CartItem.java         # Cart item entity
+
 │       └── Order.java            # Order entity
+
 └── README.md
 
 🔧 Key Components
+
 Product Management: Handles product catalog and search functionality
 
 Cart Operations: Full CRUD operations for shopping cart
@@ -54,6 +71,7 @@ Stock Control: Automatic inventory updates and validation
 Data Persistence: In-memory storage for current session
 
 👨‍💻 Author
+
 Likhitha Saggurthi
 
 Email: likhithasaggurthi@gmail.com
